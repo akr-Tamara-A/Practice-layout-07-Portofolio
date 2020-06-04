@@ -1,0 +1,10 @@
+@import url(./__item/diagram__item.css);
+@import url(./__topic/diagram__topic.css);
+@import url(./__empty/diagram_empty.css);
+@import url(./__strip-chart/diagram__strip-chart.css);
+@import url(./__text/diagram__text.css);
+
+.diagram {
+  display: flex;
+  flex-direction: column;
+}

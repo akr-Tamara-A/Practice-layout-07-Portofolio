@@ -1,0 +1,17 @@
+.diagram__strip-chart {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+} 
+
+.diagram__strip-chart_type_ux {
+  background-image: linear-gradient(to right, #C66C49 85%, #F5D6AB 85%);
+}
+
+.diagram__strip-chart_type_ui {
+  background-image: linear-gradient(to right, #C66C49 79%, #F5D6AB 79%);
+}
+
+.diagram__strip-chart_type_fd {
+  background-image: linear-gradient(to right, #C66C49 64%, #F5D6AB 64%);
+}

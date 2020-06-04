@@ -1,0 +1,14 @@
+@import url(./__nav-bar/header__nav-bar.css);
+@import url(./__logo/header__logo.css);
+@import url(./__title/header__title.css);
+@import url(./__subtitle/header__subtitle.css);
+@import url(./__link/header__link.css);
+
+.header {
+  background-color: #F5D6AB;
+  background: linear-gradient(rgba(198, 108, 73, 0.3), rgba(198, 108, 73, 0.3)),
+              url(../../images/header__background.jpg) center/cover no-repeat;
+  min-height: 768px;
+  font-family: 'Libre Franklin', Arial, Helvetica, sans-serif;
+  color: #ffffff;
+}

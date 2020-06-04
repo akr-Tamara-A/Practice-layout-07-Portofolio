@@ -1,0 +1,6 @@
+.section__container {
+  display: grid;
+  grid-template-columns: 350px 1fr;
+  column-gap: 125px;
+  margin: 0;
+}

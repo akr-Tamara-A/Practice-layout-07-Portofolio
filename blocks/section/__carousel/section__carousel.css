@@ -1,4 +1,3 @@
 .section__carousel {
-  overflow-x: scroll;
-  display: flex;
+  margin: 0 auto;
 }

@@ -1,0 +1,5 @@
+.footer__wrapper {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(380px, 1fr));
+  margin-bottom: 107px;
+}

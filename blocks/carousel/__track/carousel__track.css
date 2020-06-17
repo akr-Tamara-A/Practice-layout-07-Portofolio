@@ -1,0 +1,4 @@
+.carousel__track {
+  display: flex;
+  transition: .4s;
+}

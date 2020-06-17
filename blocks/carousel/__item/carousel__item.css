@@ -1,7 +1,5 @@
 .carousel__item {
-  position: relative;
+  height: 403px;
+  min-width: 200px;
   display: flex;
-  flex-shrink: 0;
-  width: 100%;
-  margin-right: 60px;
 }

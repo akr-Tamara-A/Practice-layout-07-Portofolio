@@ -1,6 +1,11 @@
 @import url(./__item/carousel__item.css);
-@import url(./__controls/carousel__controls.css);
+@import url(.//__container/carousel__container.css);
+@import url(./__buttons/carousel__buttons.css);
+@import url(./__buttons/carousel__button_prev.css);
+@import url(./__buttons/carousel__button_next.css);
+@import url(./__track/carousel__track.css);
+
 
 .carousel {
-  
+  width: 1100px;
 }

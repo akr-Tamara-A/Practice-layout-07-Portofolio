@@ -6,3 +6,11 @@
   color: #333333;
   text-decoration: none;
 }
+
+.nav__link:hover {
+  color: #6ea7f5;
+}
+
+.nav__link:visited {
+  border-bottom: 1px dotted #6ea7f5;
+}

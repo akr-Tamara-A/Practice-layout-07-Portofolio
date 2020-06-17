@@ -1,0 +1,24 @@
+.button {
+  padding: 1em;
+  border-radius: 6%;
+  border: 1px solid transparent;
+  background-color: rgba(110, 167, 245, 0.01);
+  transition: .2s ease;
+  align-self: flex-end;
+}
+
+.button:focus {
+  outline: none;
+  border: 1px solid #6ea7f5;
+}
+
+.button:hover {
+  border: 1px solid #6ea7f5;
+  background-color: rgba(110, 167, 245, 0.4);
+}
+
+.button:disabled {
+  opacity: .6;
+  border: 1px solid transparent;
+  background-color: transparent;
+}

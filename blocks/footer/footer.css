@@ -1,4 +1,6 @@
 @import url(./__container/footer__container.css);
+@import url(./__wrapper/footer__wrapper.css);
+@import url(./__section/footer__section.css);
 @import url(./__nav/footer__nav.css);
 @import url(./__contacts/footer__contacts.css);
 @import url(./__contact/footer__contact.css);
@@ -7,5 +9,6 @@
 .footer {
   background-color: #FFFAF2;
   font-family: 'Libre Franklin', Arial, Helvetica, sans-serif;
-  padding-bottom: 70px;
+  display: flex;
+  flex-direction: column;
 }

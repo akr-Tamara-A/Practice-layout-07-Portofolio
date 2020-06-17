@@ -1,0 +1,18 @@
+.header__logo {
+
+}
+
+.header__logo:hover {
+  outline: #6ea7f5 2px solid;
+  outline-offset: 16px;
+  background-color: #6ea7f5;
+  box-shadow: #6ea7f5 0 0 0 12px;
+}
+
+
+.header__logo:focus {
+  outline: none;
+  border: 0;
+  background-color: #6ea7f5;
+  box-shadow: #6ea7f5 0 0 0 12px;
+}

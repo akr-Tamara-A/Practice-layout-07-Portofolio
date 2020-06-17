@@ -5,5 +5,21 @@
   font-style: normal;
   line-height: 1.2;
   text-decoration: none;
-  padding: .2em .4em ;
+  padding: .2em .4em;
+  margin: 0;
+}
+
+.nav-main__link:hover {
+  background-color: #6ea7f5;
+  box-shadow: #6ea7f5 0 0 0 4px;
+  outline: #6ea7f5 2px solid;
+  outline-offset: 8px;
+}
+
+
+.nav-main__link:focus {
+  outline: none;
+  border: 0;
+  background-color: #6ea7f5;
+  box-shadow: #6ea7f5 0 0 0 4px;
 }

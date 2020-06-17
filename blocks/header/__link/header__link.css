@@ -5,3 +5,20 @@
   font-style: normal;
   line-height: 1.2;
 }
+
+.header__link:hover {
+  background-color: #6ea7f5;
+  box-shadow: #6ea7f5 0 0 0 8px;
+  outline: #6ea7f5 2px solid;
+  outline-offset: 12px;
+  text-decoration: none;
+}
+
+
+.header__link:focus {
+  outline: none;
+  border: 0;
+  background-color: #6ea7f5;
+  box-shadow: #6ea7f5 0 0 0 8px;
+  text-decoration: none;
+}

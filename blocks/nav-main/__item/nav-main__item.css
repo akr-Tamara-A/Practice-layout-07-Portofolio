@@ -1,5 +1,6 @@
 .nav-main__item {
   margin-right: 45px;
+  transition: .01s ease;
 }
 
 .nav-main__item:last-of-type {

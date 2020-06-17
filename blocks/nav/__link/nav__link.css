@@ -12,5 +12,13 @@
 }
 
 .nav__link:visited {
-  border-bottom: 1px dotted #6ea7f5;
+  /*color: #C66C49;*/
+}
+
+.nav__link:focus {
+  outline: none;
+  border: 0;
+  background-color: #6ea7f5;
+  box-shadow: #6ea7f5 0 0 0 4px;
+  color: #fff;
 }
